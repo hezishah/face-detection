@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\projects\android\glasses\OpenCV-2.4.9-android-sdk\samples\face-detection-android-studio\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\classes-55a040c7aa7f1492d23b67682bf012ccf04065d4.jar"
+        jar="C:\projects\android\glasses\OpenCV-2.4.9-android-sdk\samples\face-detection-android-studio\openCVSamplefacedetection\build\intermediates\exploded-aar\face-detection-android-studio\openCVLibrary249\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e5c296faa2af7d7469f788b55a0350c55ff56e6d"/>
+
+</pre-dex-items>
